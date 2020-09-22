@@ -1,5 +1,3 @@
-<img src="./assets/me.jpg" width=20% />
-
 ### Hi there 👋, I am Sheryl
 
 - 🔭 I’m currently working on webdev and python
