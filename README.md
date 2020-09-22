@@ -1,6 +1,4 @@
-<p align="center" >
 <img src="./assets/me.jpg" width=20% />
-</p>
 
 ### Hi there 👋, I am Sheryl
 
